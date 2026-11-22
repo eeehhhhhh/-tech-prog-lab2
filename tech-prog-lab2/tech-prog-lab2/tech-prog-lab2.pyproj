@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0e1ad9ff-5092-495c-8ff1-a93449fa5f2f</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>tech_prog_lab2.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
